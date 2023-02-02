@@ -2,7 +2,8 @@
 
 /*Fonts*/
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;		
+	background-color: beige;
 }
 header {
 	text-align: center
@@ -10,10 +11,8 @@ header {
 .center{
 	text-align: center;
 }
-@media (min-width: 640px) and (max-width: 896px){
+@media (min-width : 400px ) and ( max-width : 896px ){
 	header {
 		text-align: center;
 	}
 }
-
-
