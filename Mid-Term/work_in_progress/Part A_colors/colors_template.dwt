@@ -12,18 +12,23 @@
 <body>
 	Name:<br />
 	Date:
-	<h3><strong>Example:</strong> <img src="Example.png" alt="Color Example" width="250"></h3>
 	<h3>How To:</h3>
-	<p>Browser:</p>
-	<p>Go to: <a href="https://color.adobe.com/create">https://color.adobe.com/create</a></p>
-	<p>Create 5 color clusters and repeat 4 times</p>
-  <p>&nbsp;</p>
-  <p>Dreamweaver:</p>
   <p>Window &gt; Properties      </p>
       <p>Position the mouse cursor inside a white box. </p>
-      <p>Go to the Properties panel and click on &quot;Bg&quot; white square</p>
-      <p>Type in the HEX# and press Enter</p>
-      <p>Go to URL to convert HEX# to RGB via <a href="https://rgbcolorcode.com/color/converter/">https://rgbcolorcode.com/color/converter/</a> </p>
+      <p>Go to Window &gt; Properties</p>
+      <p>Find &quot;Bg&quot; and select the square to change the color.</p>
+      <p> Press Enter (choose colors you will use for the website's buttons/banners with text)</p>
+      <p>Example: <img src="Example.png" alt="Color Example" width="250"></p>
+      <p>Example: <a href="https://color.adobe.com/create">https://color.adobe.com/create</a></p>
+      <p> Select colors that are "Color Safe</p>
+  <p><img src="../../../../Original Files/z_Supplied/work_in_progress/Part A_colors/Color Safe Screenshot.png" width="492" height="400" alt="Color Safe screenshot"/></p>
+      <p>Select 5 colors that would look professional for a website (ex. color for text, buttons etc.)</p>
+      <p>Provide 4 options/cluster of 5 colors.</p>
+      <p>Type in the RGB and HEX# inside the boxes below.</p>
+      <p>Converion of HEX to RGB via <a href="https://rgbcolorcode.com/color/converter/">https://rgbcolorcode.com/color/converter/</a></p>
+  <p></p>
+      <p>Re-save this file with a new File Name: 1600x_your3initials_MidTerm_PartA_Colors.dwt </p>
+      <p>(inside the folder: z_Supplied &gt; work_in_progress &gt; Part A_colors) </p>
       <p>Option #1:</p>
 <table width="600" height="90" border="1">
   <tbody>
@@ -198,7 +203,5 @@
         </tr>
   </tbody>
 </table>
-<p><br>
-Go to Part A_colors folder and open colors_template.indt</p>
 </body>
 </html>
